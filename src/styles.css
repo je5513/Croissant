@@ -6,6 +6,10 @@ footer {
   text-align: center;
 }
 
+footer a {
+  margin: 0 10px;
+}
+
 p {
   text-align: center;
 }
@@ -17,4 +21,5 @@ body {
 img {
   display: block;
   margin: 0 auto;
+  border-radius: 10px;
 }
