@@ -13,3 +13,8 @@ p {
 body {
   background: #f8e8a6;
 }
+
+img {
+  display: block;
+  margin: 0 auto;
+}
